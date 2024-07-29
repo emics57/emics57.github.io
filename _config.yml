@@ -1,13 +1,7 @@
 ### Site Settings ###
 title               : Bella Chang
 description         : >-
-                      Hi there! :wave: I'm an aspiring data scientist 👩🏻‍💻 
-
-                      
-                      with a strong fascination for how our society continually generates data and the vast potential for knowledge it holds.
-
-
-                      I'd love to chat about ways to make technology safer and more accessible to all!
+                      Hi there! :wave: I'm a data scientist 👩🏻‍💻 motivated by the dynamic world of data and the ability to understand people and society at large through its potential. Thanks for stopping by!
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : bellaachang/bellaachang.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : YoussefRaafatNasry/portfolYOU
