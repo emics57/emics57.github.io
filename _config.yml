@@ -1,7 +1,11 @@
 ### Site Settings ###
 title               : Bella Chang
 description         : >-
-                      Hi there! :wave: I'm an aspiring data scientist 👩🏻‍💻 fascinated by our society's chronic production of, and knowledge potential within data.
+                      Hi there! :wave: I'm an aspiring data scientist 👩🏻‍💻 
+
+                      
+                      with a strong fascination for how our society continually generates data and the vast potential for knowledge it holds.
+
 
                       I'd love to chat about ways to make technology safer and more accessible to all!
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
