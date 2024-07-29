@@ -1,12 +1,10 @@
 ### Site Settings ###
 title               : Bella Chang
 description         : >-
-                      Hi there! :wave: I'm a data scientist fascinated by our society's 
-                      chronic production of, and knowledge potential within data. 
-                      Let's make models that help us understand each other and are more accessible. 
+                      Hi there! :wave:
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
 repository          : bellaachang/bellaachang.github.io     # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
-remote_theme        : bellaachang/bellaachang.github.io
+remote_theme        : YoussefRaafatNasry/portfolYOU
 open_new_tab        : false                             # Opens external URLs in new tab (works for posts, projects and navbar only)
 
 
@@ -33,7 +31,7 @@ author:
   linkedin          : bellaachang
 # medium            : your_username
 # soundcloud        : your_username
- spotify           : bellaahcang
+  spotify           : bellaachang
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
