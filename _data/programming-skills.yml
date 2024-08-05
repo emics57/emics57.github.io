@@ -8,8 +8,8 @@
 
 - name: Java
   percentage: 70
-  color: purple
+  color: 6a329f
 
 - name: Excel VBA
-  percentage: 40
-  color: green
+  percentage: 55
+  color: 52cc00 
