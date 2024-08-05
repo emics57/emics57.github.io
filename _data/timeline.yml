@@ -1,31 +1,41 @@
-- title: Student, Berkeley DS 
+- title: Student, Berkeley DS
   from: 2020
   to: 2024
-  description: Bachelor's degree in Data Science (Cognition emphasis) from the 1st ranked university for data science from 2020-2024 (first class graduating from 
-  the College of Computing, Data Science and Society). 7x Honors to Date scholar, 2x Dean's List. Extracurriculars including [Computer Science Mentors](https://csmentors.studentorg.berkeley.edu/#/)
-  tutor for CS 61A (Structure & Interpretation of Computer Programs), [Data Science Society](https://dssberkeley.com/) Director of Academic Development and Social Good
-  Project Manager (2x), [Society of Women Engineers](https://swe.studentorg.berkeley.edu/) Advocacy Member, and [Data Science Undergraduate Studies](https://cdss.berkeley.edu/dsus) Course Tutor and Modules
-  Developer.
+  description: >
+    Bachelor's degree in Data Science (Cognition emphasis) from the 1st ranked university for data science from 2020-2024 
+    (first class graduating from the College of Computing, Data Science and Society). 7x Honors to Date scholar, 2x Dean's List. 
+    Extracurriculars including [Computer Science Mentors](https://csmentors.studentorg.berkeley.edu/#/) tutor for CS 61A 
+    (Structure & Interpretation of Computer Programs), [Data Science Society](https://dssberkeley.com/) Director of Academic 
+    Development and Social Good Project Manager (2x), [Society of Women Engineers](https://swe.studentorg.berkeley.edu/) 
+    Advocacy Member, and [Data Science Undergraduate Studies](https://cdss.berkeley.edu/dsus) Course Tutor and Modules 
+    Developer.
 
 - title: Data Engineering Fellow, Coding it Forward (US Census Bureau)
   from: 2022
   to: 2022
-  description: Selected from an applicant pool of over 10,000 students with a 12% admission rate for the [Coding it Forward fellowship](https://codingitforward.com/), a 
-  nonprofit fellowship that connects young technologists to government organizations to improve public interest technology. Worked as a data engineering intern for the Demographics &
-  Economic Studies branch in the US Census Bureau, moving the International Database (the main database storing demographic information for 200+ US countries and territories) into a SQLite format using R.
+  description: >
+    Selected from an applicant pool of over 10,000 students with a 12% admission rate for the [Coding it Forward fellowship](https://codingitforward.com/), 
+    a nonprofit fellowship that connects young technologists to government organizations to improve public interest technology. 
+    Worked as a data engineering intern for the Demographics & Economic Studies branch in the US Census Bureau, moving the 
+    International Database (the main database storing demographic information for 200+ US countries and territories) into a 
+    SQLite format using R.
 
 - title: Data Analysis & BI Intern, NerdWallet
   from: 2023
   to: 2023
-  description: Created a new saturation curve model predicting return on revenue from spend on live marketing campaigns in the Banking vertical, with an MAPE of 13%. Conducted a full audit on NerdWallet’s DMA 
-  (designated market area) mapping to user location in contrast to Google Ads, revealing a monthly revenue impact of >$2 million. Assessed the use of ad platform SA360’s bidding campaigns in comparison to Google 
-  Ads’ through Bayesian time series analysis and causal impact, saving ~2-4% in overall marketing spend.
+  description: >
+    Created a new saturation curve model predicting return on revenue from spend on live marketing campaigns in the Banking 
+    vertical, with an MAPE of 13%. Conducted a full audit on NerdWallet’s DMA (designated market area) mapping to user location 
+    in contrast to Google Ads, revealing a monthly revenue impact of >$2 million. Assessed the use of ad platform SA360’s bidding 
+    campaigns in comparison to Google Ads’ through Bayesian time series analysis and causal impact, saving ~2-4% in overall marketing spend.
 
 - title: Data Science Research Intern, Allos AI
   from: 2024
   to: 2024
-  description: Developed Python algorithm for discovery of causal patterns in medical data using techniques based on and expanding upon known causal discovery algorithms. Remodelled internal tools for analysis of 
-  data using causal inference techniques for new app interface.
+  description: >
+    Developed Python algorithm for discovery of causal patterns in medical data using techniques based on and expanding upon 
+    known causal discovery algorithms. Remodelled internal tools for analysis of data using causal inference techniques for new 
+    app interface.
 
 - title: Student, NYU DS 
   from: 2024
