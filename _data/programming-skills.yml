@@ -5,3 +5,11 @@
 - name: SQL
   percentage: 80
   color:
+
+- name: Java
+  percentage: 70
+  color: purple
+
+- name: Excel VBA
+  percentage: 40
+  color: green
