@@ -12,4 +12,4 @@
 
 - name: Excel VBA
   percentage: 55
-  color: green
+  color: secondary
