@@ -4,4 +4,4 @@
 
 - name: SQL
   percentage: 80
-  color: #0d6efd
+  color: "#0d6efd"
