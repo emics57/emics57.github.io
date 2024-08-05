@@ -12,4 +12,4 @@
 
 - name: ExcelVBA
   percentage: 50
-  color: green
+  color: "#198754"
