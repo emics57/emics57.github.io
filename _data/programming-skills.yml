@@ -1,4 +1,4 @@
-- name: MongoDB
+- name: Jupyter
   percentage: 95
   color: info
 
