@@ -1,6 +1,6 @@
 ---
 title: Biden's Latest Executive Order on US-EU Data Privacy Regulation
-tags: [External Post, Policy]
+tags: [Data Policy, Data Governance]
 style: border
 color: primary
 description: 2022 data privacy regulation update for Berkeley community.
