@@ -1,8 +1,8 @@
 ---
-title: How to undo your git failure?
-tags: [External Post, Git]
+title: Biden's Latest Executive Order on US-EU Data Privacy Regulation
+tags: [External Post, Policy]
 style: fill
 color: warning
-description: Using `git reflog` and `git reset` to save your code.
-external_url: https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74
+description: 2022 data privacy regulation update for Berkeley community.
+external_url: https://medium.com/@dssberkeley/bidens-latest-executive-order-on-us-eu-data-privacy-regulation-f9545a43ca7c
 ---
