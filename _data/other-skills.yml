@@ -4,4 +4,4 @@
 
 - name: MongoDB
   percentage: 70
-  color: success
+  color: secondary
