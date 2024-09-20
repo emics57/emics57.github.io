@@ -1,7 +1,7 @@
 - name: Jupyter
-  percentage: 95
+  percentage: 90
   color: info
 
 - name: MongoDB
-  percentage: 70
+  percentage: 50
   color: secondary
