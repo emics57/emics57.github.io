@@ -1,5 +1,5 @@
 - name: Python
-  percentage: 95
+  percentage: 90
   color: danger
 
 - name: SQL
@@ -7,7 +7,7 @@
   color: primary
   
 - name: Java
-  percentage: 80
+  percentage: 75
   color: warning
 
 - name: ExcelVBA
