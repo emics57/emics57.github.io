@@ -1,7 +1,7 @@
 ---
-name: Allos Causal Graph Interface
-tools: [Python, sklearn, NetworkX, Statistical Inference]
-image: https://miro.medium.com/v2/resize:fit:1400/1*ZpHPc9XC3qJJvZmx4M0FIA.png
-description: Algorithm to orient casual graphs for clinical trial data, as part of a research internship for Berkeley startup Allos AI.
-external_url: https://drive.google.com/file/d/1IXPJDXSZ2bIsvi86yNHOwkwtOwWqfFM7/view?usp=sharing
+name: Mappability of Human Centromeres using Ultra-long Reads
+tools: [Python, R, Bash, WDL]
+image: https://blog.gene-test.com/wp-content/uploads/2019/07/crg_mappability.png
+description: A bioinformatics alignment and analysis pipeline, as part of my Master's project completed in Karen Miga's lab
+external_url: https://drive.google.com/file/d/1BL8sMLTd1UrTC0aYRegqL-DPpS8UgZrr/view?usp=sharing
 ---
