@@ -1,37 +1,51 @@
-- title: Student, Berkeley DS
-  from: 2020
+- title: Master\'s Student, UCSC 
+  from: 2022
   to: 2024
   description: >
-    Bachelor's degree in Data Science (Cognition emphasis) + Public Policy minor. 7x Honors to Date scholar, 2x Dean's List. 
+    Master's Degree in Bioinformatics - GPA 3.83
 
-- title: Data Engineering Fellow, Coding it Forward (US Census Bureau)
-  from: 2022
-  to: 2022
+- title: Data Science Lead, River of Life Foundation Food Pantry
+  from: 2024
+  to: Present
   description: >
-    Selected from an applicant pool of over 10,000 students with a 12% admission rate for the Coding it Forward fellowship,
-    a nonprofit fellowship that connects young technologists to government organizations to improve public interest technology. 
-    Worked as a data engineering intern for the Demographics & Economic Studies branch in the US Census Bureau, moving the 
-    International Database (the main database storing demographic information for 200+ US countries and territories) into a 
-    SQLite format using R.
+    Collaborated with a partner agency of Second Harvest Food Bank to deliver data-driven solutions for optimizing food distribution to 
+    over 25,000 households and 8,000+ hot meals monthly. Implemented a Tableau dashboard featuring real-time visualization of key metrics, 
+    trends, and ARIMA forecasting models, streamlining decision-making for stakeholders and enabling precise food inventory planning. 
 
-- title: Data Analysis & BI Intern, NerdWallet
+- title: Bioinformatics Data Analyst, UCSC Genomics Institute - Karen Miga Lab
+  from: 2023
+  to: 2024
+  description: >
+    Developed a scalable bioinformatics pipeline using custom Python, R, UNIX based command line tools, WDL scripts in Docker containers 
+    to process whole genome sequencing data (FASTA, FASTQ, BED files and SAM/BAM files). Used Shell scripting to analyze centromere DNA 
+    methylation inheritance across generations. Used the university’s high performance computing Linux clusters to build and maintain pipelines 
+    for large-scale genomic datasets. Presented and discussed research findings during weekly lab meetings.
+    
+- title: Data Science Graduate Intern, Kaiser Permanente
   from: 2023
   to: 2023
   description: >
-    Created a new saturation curve model predicting return on revenue from spend on live marketing campaigns in the Banking 
-    vertical, with an MAPE of 13%. Conducted a full audit on NerdWallet’s DMA (designated market area) mapping to user location 
-    in contrast to Google Ads, revealing a monthly revenue impact of >$2 million. Assessed the use of ad platform SA360’s bidding 
-    campaigns in comparison to Google Ads’ through Bayesian time series analysis and causal impact, saving ~2-4% in overall marketing spend.
+    Query and engineered new datasets from database management system using SQL. Developed three new predictive models targeting different time 
+    periods using ML toolkits. Implemented and hyper-tuned multiple machine learning models in Scikit-learn and PyTorch such as decision trees, 
+    random forest, XGBoost, and neural networks. Delivered these findings as weekly reports to internal team and non-technical stakeholders.
 
-- title: Data Science Research Intern, Allos AI
-  from: 2024
+- title: Statistics/Python Graduate Teaching Assistant, University of California, Santa Cruz
+  from: 2023
   to: 2024
   description: >
-    Developed Python algorithm for discovery of causal patterns in medical data using techniques based on and expanding upon 
-    known causal discovery algorithms. Remodelled internal tools for analysis of data using causal inference techniques for new 
-    app interface.
+    Prepared teaching material on Python programming and statistics, successfully leading two sections of 60 students each teaching quarter. 
+    Graded assignments and exams each quarter. Provided one-on-one tutoring to struggling students and resulted in 20% increase in homework accuracy 
+    and testing scores.
 
-- title: Student, NYU DS 
-  from: 2024
-  to: present
-  description: Pursuing my Master's degree in Data Science at NYU Center for Data Science. 
+- title: Undergraduate Research Assistant, Fred Hutchinson Cancer Research Center – John K. Lee Lab
+  from: 2020
+  to: 2022
+  description: >
+    Performed western blots, flow cytometry, cell culture, lentiviral vector production, and molecular biology protocols such as PCR, gel electrophoresis, 
+    DNA purification. Presented weekly project updates at lab meetings.
+    
+- title: Student, University of Washington, Seattle
+  from: 2018
+  to: 2022
+  description: >
+    Bachelor's Degree in Molecular Biology, minor in Data Science
