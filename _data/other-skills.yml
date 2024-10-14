@@ -2,6 +2,6 @@
   percentage: 90
   color: info
 
-- name: MongoDB
-  percentage: 50
+- name: Shell Scripting
+  percentage: 75
   color: secondary
