@@ -18,13 +18,14 @@ nav_exclude:                                            # The following paths ar
   - pages/tags.html
   - pages/404.html
   - pages/index.md
+  - pages/blog.html
   - documentation/partials/**                           # For Documentation Only
 
 
 ### Author Info ###
 author:
   name              : Emily Xu
-  image             : /assets/imgs/headshot.jpeg
+# image             : /assets/imgs/headshot.jpeg
   email             : emily.xu59@gmail.com
   github            : emics57
 # instagram         : EmilyXu
